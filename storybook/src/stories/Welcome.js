@@ -59,7 +59,9 @@ export default class Welcome extends React.Component {
       <div style={styles.main}>
         <h1>Welcome to STORYBOOK</h1>
         <p>
-          This is a UI component dev environment for your app.
+          This is a UI component dev environment for your app. We can use this environment to develop re-usable UI components for internet ANDigital work 
+          or client assignments. This storybook has two sample stories - Button - a generic button built with react and a Name component.
+          Have fun!
         </p>
         <p>
           We've added some basic stories inside the <code style={styles.code}>src/stories</code> directory.
