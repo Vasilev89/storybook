@@ -4,4 +4,4 @@
 -Clone this repository
 -npm install
 -npm run storybook
--Visit http://localhost:9001/
+-Visit http://localhost:9000/
